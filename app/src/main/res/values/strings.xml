@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseDB</string>
+    <string name="title_activity_inicio">inicio</string>
+</resources>
